@@ -31,8 +31,8 @@
 - altium_pcb_files.zip has all the Altium Designer project files for the PCB implementation of the project. The PCB layout has  Please note that the pin sequence of the OLED display needs to be reversed. And the HX711
 
 ## Acknowledgements
-- Himanshu Sharma ([https://github.com/himanshus2847/IoT-Attendance-System-using-RFID])
-- Rui Santos ([https://randomnerdtutorials.com/esp32-load-cell-hx711/])
+- Himanshu Sharma [https://github.com/himanshus2847/IoT-Attendance-System-using-RFID]
+- Rui Santos [https://randomnerdtutorials.com/esp32-load-cell-hx711/]
 
 ## Demonstration
 [https://youtu.be/nc2dN1RnbW0?si=kH0zhom45LqhLJK2]
