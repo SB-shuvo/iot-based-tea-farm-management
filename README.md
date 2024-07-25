@@ -22,17 +22,17 @@
 
 
 ## Description of Uploaded files
-- circuit diagram.pdf has the schematic diagram of the whole system
-- Tea_farm_management_esp32_code has the code that was uploaded to ESP32
-- write_rfid_esp32 has the code used for writing ID numbers to RFID cards
-- GPIO_Nums_ESP32-WROOM-DA-DEVELOPMENT-BOARD.jpg can be used to find the GPIO number corresponding to a pin number (for example: TXD = GPIO1)
-- dataAnalysisGoogleSheet.xlsx is the downloaded google sheet where the sample data were uploaded
-- upload_to_google_sheet_script.txt is the Google App Script used along with Google Sheet for uploading the data from ESP32 to Google Sheet. The instructions for setting up the script can be found here: [https://youtu.be/KPOFncRDiHQ?si=cw44Ts_JBDaSdF4q]
-- altium_pcb_files.zip has all the Altium Designer project files for the PCB implementation of the project. The PCB layout has  Please note that the pin sequence of the OLED display needs to be reversed. And the HX711
+- _circuit diagram.pdf_ has the schematic diagram of the whole system
+- _Tea_farm_management_esp32_code_ has the code that was uploaded to ESP32
+- _write_rfid_esp32_ has the code used for writing ID numbers to RFID cards
+- _GPIO_Nums_ESP32-WROOM-DA-DEVELOPMENT-BOARD.jpg_ can be used to find the GPIO number corresponding to a pin number (for example: TXD = GPIO1)
+- _dataAnalysisGoogleSheet.xlsx_ is the downloaded google sheet where the sample data were uploaded
+- _upload_to_google_sheet_script.txt_ is the Google App Script used along with Google Sheet for uploading the data from ESP32 to Google Sheet. The instructions for setting up the script can be found here: [https://youtu.be/KPOFncRDiHQ?si=cw44Ts_JBDaSdF4q]
+- _altium_pcb_files.zip_ has all the Altium Designer project files for the PCB implementation of the project. The PCB layout has  Please note that the pin sequence of the OLED display needs to be reversed. And the HX711
 
 ## Acknowledgements
-- Himanshu Sharma [https://github.com/himanshus2847/IoT-Attendance-System-using-RFID]
-- Rui Santos [https://randomnerdtutorials.com/esp32-load-cell-hx711/]
+- **Himanshu Sharma** [https://github.com/himanshus2847/IoT-Attendance-System-using-RFID]
+- **Rui Santos** [https://randomnerdtutorials.com/esp32-load-cell-hx711/]
 
 ## Demonstration
 [https://youtu.be/nc2dN1RnbW0?si=kH0zhom45LqhLJK2]
