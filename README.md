@@ -1,6 +1,6 @@
 # IoT-based Tea Farm Management Using ESP32, RFID Cards, Load Cell, and OLED Display
 
-### Components Used:
+## Components Used:
 - ESP32 WROOM 32 development board
 - Load cell
 - Hx711 amplifier module
